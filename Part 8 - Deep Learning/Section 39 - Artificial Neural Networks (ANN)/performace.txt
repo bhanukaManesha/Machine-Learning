@@ -1,0 +1,48 @@
+
+2018-05-02 16:49:24
+
+Batch Size : 10	Epochs : 100	Accuracy : 83.95
+Batch Size : 10	Epochs : 200	Accuracy : 84.25
+2018-05-02 18:38:27
+
+2018-05-02 18:45:32
+
+2018-05-02 18:41:49
+
+Batch Size : 100	Epochs : 100	Accuracy : 84.45
+Batch Size : 100	Epochs : 200	Accuracy : 86.1
+Batch Size : 100	Epochs : 300	Accuracy : 84.0
+Batch Size : 100	Epochs : 400	Accuracy : 84.45
+Batch Size : 100	Epochs : 500	Accuracy : 84.39999999999999
+Batch Size : 100	Epochs : 600	Accuracy : 86.15
+Batch Size : 100	Epochs : 700	Accuracy : 84.25
+Batch Size : 100	Epochs : 800	Accuracy : 86.2
+Batch Size : 100	Epochs : 900	Accuracy : 85.7
+Batch Size : 100	Epochs : 1000	Accuracy : 85.95
+Batch Size : 200	Epochs : 100	Accuracy : 83.85000000000001
+Batch Size : 200	Epochs : 200	Accuracy : 84.6
+Batch Size : 200	Epochs : 300	Accuracy : 84.3
+Batch Size : 200	Epochs : 400	Accuracy : 86.2
+Batch Size : 200	Epochs : 500	Accuracy : 84.6
+Batch Size : 200	Epochs : 600	Accuracy : 84.05
+Batch Size : 200	Epochs : 700	Accuracy : 85.8
+Batch Size : 200	Epochs : 800	Accuracy : 85.6
+Batch Size : 200	Epochs : 900	Accuracy : 84.89999999999999
+Batch Size : 200	Epochs : 1000	Accuracy : 84.8
+Batch Size : 300	Epochs : 100	Accuracy : 84.25
+Batch Size : 300	Epochs : 200	Accuracy : 84.3
+Batch Size : 300	Epochs : 300	Accuracy : 84.25
+Batch Size : 300	Epochs : 400	Accuracy : 84.65
+Batch Size : 300	Epochs : 500	Accuracy : 85.8
+Batch Size : 300	Epochs : 600	Accuracy : 86.25
+Batch Size : 300	Epochs : 700	Accuracy : 84.2
+Batch Size : 300	Epochs : 800	Accuracy : 84.3
+Batch Size : 300	Epochs : 900	Accuracy : 84.95
+Batch Size : 300	Epochs : 1000	Accuracy : 84.2
+Batch Size : 400	Epochs : 100	Accuracy : 83.3
+Batch Size : 400	Epochs : 200	Accuracy : 84.35000000000001
+Batch Size : 400	Epochs : 300	Accuracy : 84.1
+Batch Size : 400	Epochs : 400	Accuracy : 84.0
+Batch Size : 400	Epochs : 500	Accuracy : 85.6
+Batch Size : 400	Epochs : 600	Accuracy : 83.8
+
